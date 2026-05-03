@@ -1,2 +1,18 @@
-# Calculator-v.2
-Project 3. «Calculator v.2» – Phase I, NebulaStack.
+# Calculator v.2
+
+Extended calculator with graphs and functions.
+
+## 💻 Run:
+- Download [Calculator_v.2.exe](Calculator_v.2.exe)
+  
+- Or run [Calculator_v.2.py](Calculator_v.2.py)
+
+## 📄 Full documentation:
+- 🇷🇺  Russian version [Document](README_RU.md)
+  
+- 🇺🇲  English version: [Document](README_EN.md)
+
+## 📷 Screenshots:
+![](screenshot1.png)
+
+© NebulaStack
