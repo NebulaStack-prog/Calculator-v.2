@@ -8,9 +8,9 @@ Extended calculator with graphs and functions.
 - Or run [Calculator_v.2.py](Calculator_v.2.py)
 
 ## 📄 Full documentation:
-- 🇷🇺  Russian version [Document](README_RU.md)
+- 🇷🇺  Russian version [Document](Calculator_v.2_RU.md)
   
-- 🇺🇲  English version: [Document](README_EN.md)
+- 🇺🇲  English version: [Document](Calculator_v.2_EN.md)
 
 ## 📷 Screenshots:
 ![](screenshot1.png)
