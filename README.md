@@ -7,6 +7,11 @@ Extended calculator with graphs and functions.
   
 - Or run [Calculator_v.2.py](Calculator_v.2.py)
 
+## 💾 Code comments:
+- 🇷🇺 Russian version: [Comments](Calc_v.2_com_RU.py)
+  
+- 🇺🇲 English version: [Comments](Calc_v.2_com_EN.py)
+
 ## 📄 Full documentation:
 - 🇷🇺  Russian version [Document](Calculator_v.2_RU.md)
   
