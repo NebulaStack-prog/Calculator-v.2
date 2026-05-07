@@ -13,6 +13,10 @@ Extended calculator with graphs and functions.
 - 🇺🇲  English version: [Document](Calculator_v.2_EN.md)
 
 ## 📷 Screenshots:
-![](screenshot1.png)
+![](Calc_v.2_1.png)
+![](Calc_v.2_2.png)
+![](Calc_v.2_3.png)
+![](Calc_v.2_4.png)
+![](Calc_v.2_5.png)
 
 © NebulaStack
