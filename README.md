@@ -12,9 +12,9 @@ Extended calculator with graphs and functions.
 - 🇺🇲 English version: [Comments](Calc_v.2_com_EN.py)
 
 ## 📄 Full documentation:
-- 🇷🇺  Russian version [Document](Calculator_v.2_RU.md)
+- 🇷🇺  Russian version [Documentation](Calculator_v.2_RU.md)
   
-- 🇺🇲  English version: [Document](Calculator_v.2_EN.md)
+- 🇺🇲  English version: [Documentation](Calculator_v.2_EN.md)
 
 ## 📷 Screenshots:
 ![](Calc_v.2_1.png)
