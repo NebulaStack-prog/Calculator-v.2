@@ -4,6 +4,7 @@ Extended calculator with graphs and functions.
 
 ## 💻 Project Run:
 - Open with Python: [Calculator_v.2.py](Calculator_v.2.py)
+  
 - Or download exe: [Calculator_v.2.exe](Calculator_v.2.exe)
 
 ## 📄 Full documentation:
