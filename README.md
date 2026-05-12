@@ -2,10 +2,9 @@
 
 Extended calculator with graphs and functions.
 
-## 💻 Run:
-- Download [Calculator_v.2.exe](Calculator_v.2.exe)
-  
-- Or run [Calculator_v.2.py](Calculator_v.2.py)
+## 💻 Project Run:
+- Open with Python: [Calculator_v.2.py](Calculator_v.2.py)
+- Or download exe: [Calculator_v.2.exe](Calculator_v.2.exe)
 
 ## 💾 Code comments:
 - 🇷🇺 Russian version: [Comments](Calc_v.2_com_RU.py)
