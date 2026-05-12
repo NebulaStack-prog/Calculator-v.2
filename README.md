@@ -6,11 +6,6 @@ Extended calculator with graphs and functions.
 - Open with Python: [Calculator_v.2.py](Calculator_v.2.py)
 - Or download exe: [Calculator_v.2.exe](Calculator_v.2.exe)
 
-## 💾 Code comments:
-- 🇷🇺 Russian version: [Comments](Calc_v.2_com_RU.py)
-  
-- 🇺🇲 English version: [Comments](Calc_v.2_com_EN.py)
-
 ## 📄 Full documentation:
 - 🇷🇺  Russian version [Documentation](Calculator_v.2_RU.md)
   
