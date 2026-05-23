@@ -5,7 +5,7 @@ Extended calculator with graphs and functions.
 ## 💻 Project Run:
 - Open with Python: [Calculator_v.2.py](Calculator_v.2.py)
   
-- Or download exe: [Calculator_v.2.exe](Calculator_v.2.exe)
+- Or download exe: [Calculator_v.2.exe](https://github.com/NebulaStack-prog/Calculator-v.2/releases/tag/v1.0)
 
 ## 📄 Full documentation:
 - 🇷🇺  Russian version [Documentation](Calculator_v.2_RU.md)
