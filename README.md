@@ -1,5 +1,7 @@
 # Calculator v.2
 
+<img src="https://github.com/NebulaStack-prog/Calculator-v.1/raw/main/IMG_20260701_020257_462.jpg" width="200" height="230">
+
 Extended calculator with graphs and functions.
 
 ## 💻 Project Run:
